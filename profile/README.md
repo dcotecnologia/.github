@@ -1,12 +1,11 @@
-## Hi there 👋
+# DCO Tecnologia
 
-<!--
+## Engineering solutions for web systems & AI integrations
 
-**Here are some ideas to get you started:**
+We are DCO Tecnologia, a software house focused on turning ideas into robust, scalable digital solutions. We build custom software, complete websites and blogs, and help companies design and manage their cloud infrastructure, with a focus on AWS.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We also work with artificial intelligence, integrating AI into products and processes to deliver meaningful efficiency. For teams and businesses seeking strategic direction in technology, we provide technical consulting.
+
+From the first line of code through production operations, we deliver end-to-end software.
+
+[Connect with DCO on LinkedIn](https://www.linkedin.com/company/dcotecnologia)
